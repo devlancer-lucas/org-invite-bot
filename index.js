@@ -4,7 +4,7 @@
  * @Author: 松岛川树
  * @Date: 2021-12-18 20:47:46
  * @LastEditors: 松岛川树
- * @LastEditTime: 2021-12-18 22:30:22
+ * @LastEditTime: 2021-12-18 23:15:51
  * @FilePath: \org-invite-bot\index.js
  */
 
@@ -19,6 +19,7 @@ const {
 const octokit = new Octokit({
     auth: githubToken,
 });
+
 
 (
     async () => {

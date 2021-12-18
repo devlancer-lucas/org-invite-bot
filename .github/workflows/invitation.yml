@@ -1,3 +1,4 @@
+name: invitation
 on:
   issues:
     types: [opened]
@@ -10,8 +11,6 @@ jobs:
       - name: ⬇️ npm install
         uses: actions/npm-install@v1
       - name: 🚀 send invitation
-        run: node index.js
-      - name: 🚀 run
         run: node index.js
         env:
           GITHUB_ORG_NAME: ${secrets.GITHUB_ORG_NAME}
