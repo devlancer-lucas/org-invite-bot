@@ -1,0 +1,24 @@
+{
+  "name": "org-invite-bot",
+  "version": "1.0.0",
+  "description": "🤖 The action used to check the problem and invite members to the organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songdaochuanshu/org-invite-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/songdaochuanshu/org-invite-bot/issues"
+  },
+  "homepage": "https://github.com/songdaochuanshu/org-invite-bot#readme",
+  "dependencies": {
+    "@octokit/core": "^3.5.1",
+    "dotenv": "^10.0.0"
+  }
+}
