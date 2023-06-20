@@ -55,7 +55,7 @@ jobs:
         <a href=https://github.com/devlancer-lucas>
             <img src=https://avatars.githubusercontent.com/u/125998213?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=songdaochuanshu/>
             <br />
-            <sub style="font-size:14px"><b>Lucas</b></sub>
+            <sub style="font-size:14px"><b>devlancer-lucas</b></sub>
         </a>
     </td>
 </tr>
@@ -66,4 +66,4 @@ jobs:
 You should follow our [Code of Conduct](/CODE_OF_CONDUCT.md).
 ## License
 
-[MIT](/LICENSE) © songdaochuanshu
+[MIT](/LICENSE) © devlancer-lucas
